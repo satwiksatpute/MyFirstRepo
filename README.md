@@ -1,4 +1,4 @@
 # MyFirstRepo
 This is My First Git Repository.
 <br>
-Author - Satwik Satpute
+Author - Satwik Satpute (Capgemini)
